@@ -1,11 +1,10 @@
 .idea
 .vscode
-bitrix
+/bitrix/*
 login
-company
 news
 products
-contacts
 search
 services
 upload
+images/*

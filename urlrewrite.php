@@ -1,4 +1,4 @@
-<?
+<?php
 $arUrlRewrite = array(
 	array(
 		"CONDITION"	=>	"#^/services/#",
@@ -19,5 +19,3 @@ $arUrlRewrite = array(
 		"PATH"	=>	"/news/index.php",
 	),
 );
-
-?>
